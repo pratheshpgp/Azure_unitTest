@@ -1,0 +1,13 @@
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.exe
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.deps.json
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.runtimeconfig.json
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.runtimeconfig.dev.json
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.dll
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\bin\Debug\netcoreapp3.1\Azure_TestApplication.pdb
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.csprojAssemblyReference.cache
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.AssemblyInfoInputs.cache
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.AssemblyInfo.cs
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.dll
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.pdb
+C:\Users\G0P024P\source\repos\Azure_TestApplication\Azure_TestApplication\obj\Debug\netcoreapp3.1\Azure_TestApplication.genruntimeconfig.cache
